@@ -1,0 +1,17 @@
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\bin\Debug\net6.0-windows\Quanlycuahang.exe
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\bin\Debug\net6.0-windows\Quanlycuahang.deps.json
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\bin\Debug\net6.0-windows\Quanlycuahang.runtimeconfig.json
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\bin\Debug\net6.0-windows\Quanlycuahang.dll
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\bin\Debug\net6.0-windows\Quanlycuahang.pdb
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.csproj.AssemblyReference.cache
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.Form1.resources
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.csproj.GenerateResource.cache
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.AssemblyInfoInputs.cache
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.AssemblyInfo.cs
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.csproj.CoreCompileInputs.cache
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.dll
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\refint\Quanlycuahang.dll
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.pdb
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\Quanlycuahang.genruntimeconfig.cache
+C:\Users\win\Downloads\NMLT\22880112\Quanlycuahang\Quanlycuahang\obj\Debug\net6.0-windows\ref\Quanlycuahang.dll
